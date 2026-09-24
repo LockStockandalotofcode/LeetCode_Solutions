@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T15:31:38.251Z",
+  "updatedAt": "2026-09-24T16:47:08.735Z",
   "problems": [
     {
       "frontendId": "1",
@@ -13,8 +13,8 @@
       "problemName": "0001-two-sum",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
-      "folderPath": "0001-two-sum/",
-      "readmePath": "0001-two-sum/README.md",
+      "folderPath": "Easy/0001-two-sum/",
+      "readmePath": "Easy/0001-two-sum/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -23,6 +23,14 @@
           "path": "0001-two-sum/0001-two-sum.py",
           "sha": "748258cab6a224f3175b4efb6fb7927419571346",
           "lastSyncedAt": "2026-09-24T15:31:38.251Z"
+        },
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0001-two-sum-09-24-2026-22-17-05.py",
+          "path": "Easy/0001-two-sum/0001-two-sum-09-24-2026-22-17-05.py",
+          "sha": "03d905a0c8797950c9b0a6bea26babc382bd5920",
+          "lastSyncedAt": "2026-09-24T16:47:08.735Z"
         }
       ]
     }
