@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T19:40:23.112Z",
+  "updatedAt": "2026-09-24T19:40:41.108Z",
   "problems": [
     {
       "frontendId": "268",
@@ -23,6 +23,14 @@
           "path": "Easy/0268-missing-number/0268-missing-number-09-25-2026-01-10-19.py",
           "sha": "42c0deaaf6f0b95a76cca03c9e8108958b37e7ca",
           "lastSyncedAt": "2026-09-24T19:40:23.112Z"
+        },
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0268-missing-number-09-25-2026-01-10-39.py",
+          "path": "Easy/0268-missing-number/0268-missing-number-09-25-2026-01-10-39.py",
+          "sha": "42c0deaaf6f0b95a76cca03c9e8108958b37e7ca",
+          "lastSyncedAt": "2026-09-24T19:40:41.108Z"
         }
       ]
     }
