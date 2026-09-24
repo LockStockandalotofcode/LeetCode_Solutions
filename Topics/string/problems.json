@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-09-24T21:04:41.503Z",
+  "problems": [
+    {
+      "frontendId": "212",
+      "title": "Word Search II",
+      "slug": "word-search-ii",
+      "problemName": "0212-word-search-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search-ii/",
+      "folderPath": "Hard/0212-word-search-ii/",
+      "readmePath": "Hard/0212-word-search-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0212-word-search-ii-09-25-2026-02-34-37.py",
+          "path": "Hard/0212-word-search-ii/0212-word-search-ii-09-25-2026-02-34-37.py",
+          "sha": "84f5c8dc0a32602bcda2f032e255b01f6a778b7b",
+          "lastSyncedAt": "2026-09-24T21:04:41.503Z"
+        }
+      ]
+    }
+  ]
+}
