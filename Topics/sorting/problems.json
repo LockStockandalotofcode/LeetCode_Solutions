@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T15:28:01.178Z",
+  "updatedAt": "2026-09-24T15:30:49.627Z",
   "problems": [
     {
       "frontendId": "295",
@@ -22,7 +22,7 @@
           "filename": "0295-find-median-from-data-stream.py",
           "path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.py",
           "sha": "0a59fdbf9a74115d1359e15a20ce5ca8862664af",
-          "lastSyncedAt": "2026-09-24T15:28:01.178Z"
+          "lastSyncedAt": "2026-09-24T15:30:49.627Z"
         }
       ]
     }
