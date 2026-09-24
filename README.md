@@ -49,15 +49,17 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 2 |
+| [Array](Topics/array/) | 3 |
 | [Backtracking](Topics/backtracking/) | 1 |
+| [Binary Search](Topics/binary-search/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Design](Topics/design/) | 1 |
-| [Hash Table](Topics/hash-table/) | 1 |
+| [Hash Table](Topics/hash-table/) | 2 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 1 |
+| [Math](Topics/math/) | 2 |
 | [Recursion](Topics/recursion/) | 1 |
-| [Sorting](Topics/sorting/) | 1 |
+| [Sorting](Topics/sorting/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
