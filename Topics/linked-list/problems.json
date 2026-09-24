@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "linked-list",
+    "name": "Linked List"
+  },
+  "updatedAt": "2026-09-24T19:32:46.506Z",
+  "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "Medium/0002-add-two-numbers/",
+      "readmePath": "Medium/0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0002-add-two-numbers-09-25-2026-01-02-42.py",
+          "path": "Medium/0002-add-two-numbers/0002-add-two-numbers-09-25-2026-01-02-42.py",
+          "sha": "e0c4406be8ea898ef8243950f77dac2841e7a13a",
+          "lastSyncedAt": "2026-09-24T19:32:46.506Z"
+        }
+      ]
+    }
+  ]
+}
