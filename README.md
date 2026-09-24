@@ -49,8 +49,8 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 3 |
-| [Backtracking](Topics/backtracking/) | 1 |
+| [Array](Topics/array/) | 4 |
+| [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
@@ -59,7 +59,10 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Math](Topics/math/) | 2 |
+| [Matrix](Topics/matrix/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
+| [String](Topics/string/) | 1 |
+| [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
