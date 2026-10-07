@@ -66,3 +66,23 @@ Contains topicwise list of solved problems.
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/LockStockandalotofcode/LeetCode_Solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/LockStockandalotofcode/LeetCode_Solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/LockStockandalotofcode/LeetCode_Solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/LockStockandalotofcode/LeetCode_Solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
+<!---LeetCode Topics End-->
