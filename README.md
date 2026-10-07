@@ -5,45 +5,28 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 122 | 41 | 60 | 21 |
+| 2 | 0 | 1 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 14 days | 33 |
+| 1 days | 1 days | 1 |
 
 | Date | Problems |
 | --- | ---: |
-| 2025-07-19 | 1 |
-| 2025-07-20 | 3 |
-| 2025-07-21 | 9 |
-| 2025-07-22 | 2 |
-| 2025-07-23 | 8 |
-| 2025-07-26 | 19 |
-| 2026-01-30 | 1 |
-| 2026-01-31 | 1 |
-| 2026-02-02 | 2 |
-| 2026-02-05 | 1 |
-| 2026-02-16 | 1 |
-| 2026-02-17 | 1 |
-| 2026-03-05 | 1 |
-| 2026-09-24 | 1 |
+| 2026-10-07 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 47 | 39% |
-| Hash Table | 30 | 25% |
-| String | 30 | 25% |
-| Depth-First Search | 26 | 21% |
-| Binary Tree | 23 | 19% |
-| Tree | 23 | 19% |
-| Breadth-First Search | 21 | 17% |
-| Two Pointers | 18 | 15% |
-| Linked List | 16 | 13% |
-| Stack | 16 | 13% |
+| Hash Table | 2 | 100% |
+| Design | 1 | 50% |
+| Ordered Set | 1 | 50% |
+| Sliding Window | 1 | 50% |
+| Stack | 1 | 50% |
+| String | 1 | 50% |
 
 ## Topics
 
@@ -52,17 +35,25 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 4 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
+| [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
-| [Design](Topics/design/) | 1 |
-| [Hash Table](Topics/hash-table/) | 2 |
+| [Data Structures](Topics/data-structures/) | 0 |
+| [Design](Topics/design/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 0 |
+| [Graph](Topics/graph/) | 0 |
+| [Hash Table](Topics/hash-table/) | 4 |
+| [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Math](Topics/math/) | 2 |
 | [Matrix](Topics/matrix/) | 1 |
+| [Ordered Set](Topics/ordered-set/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
+| [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
-| [String](Topics/string/) | 1 |
+| [Stack](Topics/stack/) | 1 |
+| [String](Topics/string/) | 2 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
