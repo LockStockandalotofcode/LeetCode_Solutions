@@ -4,6 +4,27 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-10-07T16:51:48.046Z",
-  "problems": []
+  "updatedAt": "2026-10-07T16:52:22.991Z",
+  "problems": [
+    {
+      "frontendId": "895",
+      "title": "Maximum Frequency Stack",
+      "slug": "maximum-frequency-stack",
+      "problemName": "0895-maximum-frequency-stack",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-frequency-stack/",
+      "folderPath": "0895-maximum-frequency-stack/",
+      "readmePath": "0895-maximum-frequency-stack/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0895-maximum-frequency-stack.py",
+          "path": "0895-maximum-frequency-stack/0895-maximum-frequency-stack.py",
+          "sha": "8a99062404dfd688a8544ac1df48eeba9f6d6735",
+          "lastSyncedAt": "2026-10-07T16:52:22.991Z"
+        }
+      ]
+    }
+  ]
 }
