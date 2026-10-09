@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-09T11:20:47.382Z",
+  "updatedAt": "2026-10-09T11:23:49.566Z",
   "problems": [
     {
       "frontendId": "662",
@@ -24,6 +24,14 @@
           "path": "Medium/0662-maximum-width-of-binary-tree/0662-maximum-width-of-binary-tree-10-09-2026-16-50-45.py",
           "sha": "3345414a9131e22371f9b5f5282390974469d073",
           "lastSyncedAt": "2026-10-09T11:20:47.382Z"
+        },
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0662-maximum-width-of-binary-tree-10-09-2026-16-53-48.py",
+          "path": "Medium/0662-maximum-width-of-binary-tree/0662-maximum-width-of-binary-tree-10-09-2026-16-53-48.py",
+          "sha": "158ca1dd5d454b4b2f36ee22dccf2c0bc090da76",
+          "lastSyncedAt": "2026-10-09T11:23:49.566Z"
         }
       ]
     }
