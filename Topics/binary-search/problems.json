@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "binary-search",
-    "name": "Binary Search"
+    "name": "Binary Search",
+    "tagId": "11"
   },
-  "updatedAt": "2026-09-24T19:40:41.108Z",
+  "updatedAt": "2026-10-09T09:39:43.003Z",
   "problems": [
+    {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "problemName": "0033-search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "folderPath": "Medium/0033-search-in-rotated-sorted-array/",
+      "readmePath": "Medium/0033-search-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0033-search-in-rotated-sorted-array.py",
+          "path": "Medium/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.py",
+          "sha": "bf7a200226b049d7935d4571bcca40253700829c",
+          "lastSyncedAt": "2026-10-09T09:39:43.003Z"
+        }
+      ]
+    },
     {
       "frontendId": "268",
       "title": "Missing Number",
