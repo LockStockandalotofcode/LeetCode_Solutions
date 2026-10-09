@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "two-pointers",
-    "name": "Two Pointers"
+    "name": "Two Pointers",
+    "tagId": "9"
   },
-  "updatedAt": "2026-09-24T15:30:49.627Z",
+  "updatedAt": "2026-10-09T09:55:17.431Z",
   "problems": [
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "Medium/0189-rotate-array/",
+      "readmePath": "Medium/0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0189-rotate-array-10-09-2026-15-25-15.py",
+          "path": "Medium/0189-rotate-array/0189-rotate-array-10-09-2026-15-25-15.py",
+          "sha": "bebd9ea052cf053ccc81069e70e62bb7c0fb8cf8",
+          "lastSyncedAt": "2026-10-09T09:55:17.431Z"
+        }
+      ]
+    },
     {
       "frontendId": "295",
       "title": "Find Median from Data Stream",
