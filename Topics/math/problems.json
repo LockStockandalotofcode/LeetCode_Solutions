@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "math",
-    "name": "Math"
+    "name": "Math",
+    "tagId": "8"
   },
-  "updatedAt": "2026-09-24T19:40:41.108Z",
+  "updatedAt": "2026-10-09T09:55:17.431Z",
   "problems": [
     {
       "frontendId": "2",
@@ -23,6 +24,26 @@
           "path": "Medium/0002-add-two-numbers/0002-add-two-numbers-09-25-2026-01-02-42.py",
           "sha": "e0c4406be8ea898ef8243950f77dac2841e7a13a",
           "lastSyncedAt": "2026-09-24T19:32:46.506Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "Medium/0189-rotate-array/",
+      "readmePath": "Medium/0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0189-rotate-array-10-09-2026-15-25-15.py",
+          "path": "Medium/0189-rotate-array/0189-rotate-array-10-09-2026-15-25-15.py",
+          "sha": "bebd9ea052cf053ccc81069e70e62bb7c0fb8cf8",
+          "lastSyncedAt": "2026-10-09T09:55:17.431Z"
         }
       ]
     },
