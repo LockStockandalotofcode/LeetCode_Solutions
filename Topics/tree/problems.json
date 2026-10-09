@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "tree",
+    "name": "Tree",
+    "tagId": "20"
+  },
+  "updatedAt": "2026-10-09T11:20:47.382Z",
+  "problems": [
+    {
+      "frontendId": "662",
+      "title": "Maximum Width of Binary Tree",
+      "slug": "maximum-width-of-binary-tree",
+      "problemName": "0662-maximum-width-of-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+      "folderPath": "Medium/0662-maximum-width-of-binary-tree/",
+      "readmePath": "Medium/0662-maximum-width-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0662-maximum-width-of-binary-tree-10-09-2026-16-50-45.py",
+          "path": "Medium/0662-maximum-width-of-binary-tree/0662-maximum-width-of-binary-tree-10-09-2026-16-50-45.py",
+          "sha": "3345414a9131e22371f9b5f5282390974469d073",
+          "lastSyncedAt": "2026-10-09T11:20:47.382Z"
+        }
+      ]
+    }
+  ]
+}
