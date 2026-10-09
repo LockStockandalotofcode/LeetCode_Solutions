@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-09T09:55:17.431Z",
+  "updatedAt": "2026-10-09T10:09:11.361Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,14 @@
           "path": "Medium/0189-rotate-array/0189-rotate-array-10-09-2026-15-25-15.py",
           "sha": "bebd9ea052cf053ccc81069e70e62bb7c0fb8cf8",
           "lastSyncedAt": "2026-10-09T09:55:17.431Z"
+        },
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0189-rotate-array-10-09-2026-15-39-09.py",
+          "path": "Medium/0189-rotate-array/0189-rotate-array-10-09-2026-15-39-09.py",
+          "sha": "c915efb50d41a85d2b5b15b31f51fb379d01ea97",
+          "lastSyncedAt": "2026-10-09T10:09:11.361Z"
         }
       ]
     },
